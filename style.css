@@ -1,0 +1,18 @@
+ul {
+    color: blue;
+    background-color: yellow;
+}
+
+.kirfenia {
+    color:aquamarine;
+}
+
+.ancestor .contents{
+    color: blue;
+}
+
+
+.contents {
+    color: green;
+}
+
